@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.container {
+  border: 0.2px solid black;
+  text-align: center;
+  color:black;
+  background-color: blue;
+
+  
+}
+#input{
+  margin:10px;
+  color:gray;
+  width:100%;
+  font-size:30px;
+}
+.col {
+  text-align: start;
+  color: black;
+  background-color: white;
+}
+.header {
+  justify-content: center;
+  background-color: blue;
+  border: 0.2px solid black;
+  padding:20px;
+  font-size:30px;
+}
+
+.col1 {
+  margin: 2px;
+  background-color: white;
+}
+.y{
+  height:500px;
+}
+.Tables{
+  padding:20px;
+  margin:5px;
+}
+#button1{
+  background-color:white;
+  margin:20px;
+  width:40px;
+}
+#button2{
+ width:100%;
+ background-color:white;
+ justify-content:center;
+ border-color:rgb(132, 132, 250);
+}
+.rowb{
+  padding-left:20px;
+  padding-right:20px;
+  
+}
+#button3{
+  width:120px;
+}
+#button3:hover{
+  background-color:gray;
+}
+
+#button4{
+  margin-left:30px;
+  width:100px;
+  margin-right:10px;;
+}
+.col22{
+  height:300px;
+  background-color: rgb(194, 188, 188);
+  padding:20px;
+  margin:10px;
+  width:90%
+}
